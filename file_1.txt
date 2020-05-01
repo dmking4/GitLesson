@@ -1,0 +1,3 @@
+I am learning Git
+It seems difficult
+Happy it is Friday
